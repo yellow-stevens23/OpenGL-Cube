@@ -4,7 +4,7 @@ The famlous rotating cube demo that everyone does! It seems this used to be quit
 
 In order to compile this you need OpenGL in memory.
 
-If you are comiling with gcc then linek the file like this
+If you are comiling with gcc then link the file like this
 
 g++ main.cpp GLWindow.cpp Mesh.cpp Shader.cpp -o cube -lGL -lglfw -lGLEW
 
