@@ -1,6 +1,6 @@
 # OpenGL-Cube
 
-The famlous rotating cube demo that everyone does! It seems this used to be quite popular but since OpenGL people have stopped doing it and now seem to do the rainbow pyramid instead so when I decided to do this one I could not find any examples online using modern OpenGL so I decided to leave this one here.
+The famlous rotating cube demo that everyone does! It seems this used to be quite popular but since modern OpenGL (3.1) people have stopped doing it and now seem to do the rainbow pyramid instead so when I decided to do this one I could not find any examples online using modern OpenGL so I decided to leave this one here.
 
 In order to compile this you need OpenGL in memory.
 
